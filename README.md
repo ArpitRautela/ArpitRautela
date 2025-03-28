@@ -11,13 +11,13 @@ LP<h1 align="center">Hi 👋, I'm Arpit Rautela</h1>
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://porfolio-inky-eight.vercel.app/](https://porfolio-arpit-rautelas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://porfolio-inky-eight.vercel.app/](https://arpitrautela.tech)
 
 - 💬 Ask me about **Backend Services , WebDevolopment**
 
 - 📫 How to reach me **arpitrautela40@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ECCnPBFx7Q_zeu3GO-wcuexAe7tiAiFt/view?usp=sharing](https://drive.google.com/file/d/1ECCnPBFx7Q_zeu3GO-wcuexAe7tiAiFt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ECCnPBFx7Q_zeu3GO-wcuexAe7tiAiFt/view?usp=sharing](https://drive.google.com/file/d/1PacMrPpsSTsSajKJ2XBmFyJCOopMCD_g/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
