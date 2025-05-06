@@ -17,7 +17,7 @@ LP<h1 align="center">Hi 👋, I'm Arpit Rautela</h1>
 
 - 📫 How to reach me **arpitrautela40@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PacMrPpsSTsSajKJ2XBmFyJCOopMCD_g/view?usp=sharing](https://drive.google.com/file/d/1PacMrPpsSTsSajKJ2XBmFyJCOopMCD_g/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13Srz6b2lfNnm1pEjmNtD5-vW8-H1beBP/view?usp=sharing](https://drive.google.com/file/d/13Srz6b2lfNnm1pEjmNtD5-vW8-H1beBP/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
